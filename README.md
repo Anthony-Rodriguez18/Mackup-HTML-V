@@ -1,6 +1,7 @@
 # Mockup-HTML-V
 INTEGRANTES:
-  *Marcia Montenegro Cavagnaro
+  *Marcia Montenegro Cavagnaro /n
+  
   *Josue Carpio Peña
   *Ariana León Zarate
   *Diego Zeballos Cartagena
